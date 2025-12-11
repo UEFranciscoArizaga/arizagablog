@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Ceremonia de Graduación 2024",
+    "date": "2024-12-15",
+    "time": "10:00",
+    "description": "Ceremonia de graduación para los estudiantes de último año. Un momento especial para celebrar los logros académicos.",
+    "category": "ceremonial",
+    "location": "Auditorio Principal",
+    "image": "https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "2",
+    "title": "Feria de Ciencias",
+    "date": "2024-12-20",
+    "time": "09:00",
+    "description": "Exposición de proyectos científicos realizados por estudiantes de todos los niveles. Innovación y creatividad en acción.",
+    "category": "academico",
+    "location": "Laboratorios de Ciencias",
+    "image": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "3",
+    "title": "Festival Cultural Navideño",
+    "date": "2024-12-22",
+    "time": "15:00",
+    "description": "Presentaciones artísticas, obras de teatro y villancicos interpretados por nuestros talentosos estudiantes.",
+    "category": "cultural",
+    "location": "Patio Central",
+    "image": "https://images.pexels.com/photos/1709003/pexels-photo-1709003.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "4",
+    "title": "Torneo Deportivo Intercursos",
+    "date": "2025-01-15",
+    "time": "08:00",
+    "description": "Competencia deportiva entre los diferentes cursos de la institución. Fútbol, básquet y atletismo.",
+    "category": "deportivo",
+    "location": "Canchas Deportivas",
+    "image": "https://images.pexels.com/photos/274422/pexels-photo-274422.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "5",
+    "title": "Conferencia de Orientación Vocacional",
+    "date": "2025-01-25",
+    "time": "14:00",
+    "description": "Charla informativa sobre carreras universitarias y oportunidades de estudio superior.",
+    "category": "academico",
+    "location": "Auditorio Principal",
+    "image": "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "id": "6",
+    "title": "Día de la Familia",
+    "date": "2025-02-14",
+    "time": "10:00",
+    "description": "Jornada de integración familiar con actividades recreativas y almuerzo compartido.",
+    "category": "social",
+    "location": "Instalaciones Generales",
+    "image": "https://images.pexels.com/photos/1128318/pexels-photo-1128318.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
